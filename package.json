@@ -10,7 +10,7 @@
   "author": "zhangshuo",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
